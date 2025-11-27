@@ -1,1 +1,1 @@
-# aiml_nn_energy_efficiency
+# Energy efficiency of neural networks
